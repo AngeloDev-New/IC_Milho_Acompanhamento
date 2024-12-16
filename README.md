@@ -41,8 +41,12 @@ Conforme comentado no grupo de controle do WhatsApp, o protótipo inicial de seg
 **16/12** aplicando binarizacao basica na imagem (a nivel de aprendizados estes processos iniciais serao aplicados na imagem [img.png](https://raw.githubusercontent.com/AngeloDev-New/IC_Milho_Acompanhamento/refs/heads/main/img.png)) optei fazer tanto na mao pra entender a logica por traz quanto usando as facilidades do cv2 
 [003.py](https://github.com/AngeloDev-New/IC_Milho_Acompanhamento/blob/main/Scripts/003.py)
 Script esta setado com limiar 170 é gerou:
+
 [THRESH_BINARY.png](https://raw.githubusercontent.com/AngeloDev-New/IC_Milho_Acompanhamento/refs/heads/main/imgs/THRESH_BINARY.png)
+
 [THRESH_BINARY_INV.png](https://raw.githubusercontent.com/AngeloDev-New/IC_Milho_Acompanhamento/refs/heads/main/imgs/THRESH_BINARY_INV.png)
+
 [THRESH_THRUNK.png](https://raw.githubusercontent.com/AngeloDev-New/IC_Milho_Acompanhamento/refs/heads/main/imgs/THRESH_TRUNC.png)
+
 [THRESH_TOZERO.png](https://raw.githubusercontent.com/AngeloDev-New/IC_Milho_Acompanhamento/refs/heads/main/imgs/THRESH_TOZERO.png)
 [THRESH_TOZERO_INV.png](https://raw.githubusercontent.com/AngeloDev-New/IC_Milho_Acompanhamento/refs/heads/main/imgs/THRESH_TOZERO_INV.png)
