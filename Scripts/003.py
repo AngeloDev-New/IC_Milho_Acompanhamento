@@ -12,8 +12,12 @@ img = cv2.imdecode(img_array, cv2.IMREAD_UNCHANGED)
 
 # Converter para escala de cinza
 gray = cv2.cvtColor(img, cv2.COLOR_BGRA2GRAY)
-limiar =101 #@param {type: "slider",min:0,max:255,steo:1}
-val,tresh = cv2.threshold(gray,limiar,255,cv2.THRESH_BINARY)
+limiar =170 #@param {type: "slider",min:0,max:255,steo:1}
+# val,tresh = cv2.threshold(gray,limiar,255,cv2.THRESH_BINARY)
+# val,tresh = cv2.threshold(gray,limiar,255,cv2.THRESH_BINARY_INV)
+# val,tresh = cv2.threshold(gray,limiar,255,cv2.THRESH_TRUNK)
+# val,tresh = cv2.threshold(gray,limiar,255,cv2.THRESH_TOZERO)
+val,tresh = cv2.threshold(gray,limiar,255,cv2.THRESH_TOZERO_INV)
 gray = tresh
 
 # Configurar o Matplotlib para tela cheia
