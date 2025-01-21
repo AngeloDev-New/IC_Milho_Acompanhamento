@@ -38,15 +38,15 @@ Conforme comentado no grupo de controle do WhatsApp, o protótipo inicial de seg
 **13/12** ** * Limiarização ou binarização** é um método aplicado em imagens monocromáticas, ou seja, em escala de cinza. Nesse processo, define-se um valor de limiar entre 0 e 255, onde todos os pixels com valores acima desse limiar são convertidos para 255 (branco), enquanto os valores abaixo são convertidos para 0 (preto).
 
 **13/12** Analisando a estrutura da nossa documentação, percebi que, ao inverter a ordem de apresentação e deixar as novidades no topo, o conteúdo se tornaria mais visível para mim e mais legível para os interessados. Além disso, foi criado o arquivo [Readme.md](https://github.com/AngeloDev-New/IC_Milho_Acompanhamento/tree/main#readme) do projeto no Git.
-**16/12** aplicando binarizacao basica na imagem (a nivel de aprendizados estes processos iniciais serao aplicados na imagem [img.png](https://raw.githubusercontent.com/AngeloDev-New/IC_Milho_Acompanhamento/refs/heads/main/img.png)) optei fazer tanto na mao pra entender a logica por traz quanto usando as facilidades do cv2 
-[003.py](https://github.com/AngeloDev-New/IC_Milho_Acompanhamento/blob/main/Scripts/003.py)
+**16/12** aplicando binarizacao basica na imagem (a nivel de aprendizados estes processos iniciais serao aplicados na imagem ![img.png](https://raw.githubusercontent.com/AngeloDev-New/IC_Milho_Acompanhamento/refs/heads/main/img.png)) optei fazer tanto na mao pra entender a logica por traz quanto usando as facilidades do cv2 
+![003.py](https://github.com/AngeloDev-New/IC_Milho_Acompanhamento/blob/main/Scripts/003.py)
 Script esta setado com limiar 170 é gerou:
 
-[THRESH_BINARY.png](https://raw.githubusercontent.com/AngeloDev-New/IC_Milho_Acompanhamento/refs/heads/main/imgs/THRESH_BINARY.png)
+![THRESH_BINARY.png](https://raw.githubusercontent.com/AngeloDev-New/IC_Milho_Acompanhamento/refs/heads/main/imgs/THRESH_BINARY.png)
 
-[THRESH_BINARY_INV.png](https://raw.githubusercontent.com/AngeloDev-New/IC_Milho_Acompanhamento/refs/heads/main/imgs/THRESH_BINARY_INV.png)
+![THRESH_BINARY_INV.png](https://raw.githubusercontent.com/AngeloDev-New/IC_Milho_Acompanhamento/refs/heads/main/imgs/THRESH_BINARY_INV.png)
 
-[THRESH_THRUNK.png](https://raw.githubusercontent.com/AngeloDev-New/IC_Milho_Acompanhamento/refs/heads/main/imgs/THRESH_TRUNC.png)
+![THRESH_THRUNK.png](https://raw.githubusercontent.com/AngeloDev-New/IC_Milho_Acompanhamento/refs/heads/main/imgs/THRESH_TRUNC.png)
 
-[THRESH_TOZERO.png](https://raw.githubusercontent.com/AngeloDev-New/IC_Milho_Acompanhamento/refs/heads/main/imgs/THRESH_TOZERO.png)
-[THRESH_TOZERO_INV.png](https://raw.githubusercontent.com/AngeloDev-New/IC_Milho_Acompanhamento/refs/heads/main/imgs/THRESH_TOZERO_INV.png)
+![THRESH_TOZERO.png](https://raw.githubusercontent.com/AngeloDev-New/IC_Milho_Acompanhamento/refs/heads/main/imgs/THRESH_TOZERO.png)
+![THRESH_TOZERO_INV.png](https://raw.githubusercontent.com/AngeloDev-New/IC_Milho_Acompanhamento/refs/heads/main/imgs/THRESH_TOZERO_INV.png)
