@@ -50,3 +50,7 @@ Script esta setado com limiar 170 é gerou:
 
 ![THRESH_TOZERO.png](https://raw.githubusercontent.com/AngeloDev-New/IC_Milho_Acompanhamento/refs/heads/main/imgs/THRESH_TOZERO.png)
 ![THRESH_TOZERO_INV.png](https://raw.githubusercontent.com/AngeloDev-New/IC_Milho_Acompanhamento/refs/heads/main/imgs/THRESH_TOZERO_INV.png)
+
+**21/01** A pedido do meu instrutor, Mestre [Wagner W. Ávila Bombardelli](https://www.linkedin.com/in/wagnilson/), estarei adaptando a ferramenta de segmentação do Google [Detectron2](https://github.com/facebookresearch/detectron2) para realizar a segmentação de milho presente em imagens.
+
+
