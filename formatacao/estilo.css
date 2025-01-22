@@ -1,1 +1,49 @@
+/* Estilo global */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #333;
+    margin: 20px;
+}
+
+/* Título principal (h1) */
+h1 {
+    font-size: 24px;
+    color: #2a7ae2;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+/* Subtítulos (h2) */
+h2 {
+    font-size: 20px;
+    color: #1a5fb4;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/* Subtítulos menores (h3) */
+h3 {
+    font-size: 18px;
+    color: #003b87;
+    margin-top: 15px;
+    margin-bottom: 8px;
+}
+
+/* Texto em listas */
+ul, ol {
+    margin: 10px 0;
+    padding-left: 20px;
+}
+
+/* Links */
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
 
