@@ -47,3 +47,10 @@ a:hover {
     text-decoration: underline;
 }
 
+/* Estilo para imagens */
+img {
+    max-width: 100%; /* Limita a largura da imagem ao tamanho da página */
+    height: auto;   /* Mantém a proporção original da imagem */
+    display: block; /* Remove o espaço extra ao redor das imagens */
+    margin: 10px auto; /* Centraliza a imagem e adiciona margem */
+}
