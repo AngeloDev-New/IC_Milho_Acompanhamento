@@ -1,10 +1,11 @@
 /* Estilo global */
 body {
-    font-family: Arial, sans-serif;
-    font-size: 14px;
-    line-height: 1.6;
+    font-family: "Times New Roman", serif;
+    font-size: 12px;
+    line-height: 1.5;
     color: #333;
     margin: 20px;
+    background-color: #fff;
 }
 
 /* Título principal (h1) */
@@ -13,6 +14,7 @@ h1 {
     color: #2a7ae2;
     font-weight: bold;
     margin-bottom: 20px;
+    text-align: center;
 }
 
 /* Subtítulos (h2) */
@@ -31,6 +33,11 @@ h3 {
     margin-bottom: 8px;
 }
 
+/* Parágrafos */
+p {
+    margin-bottom: 15px;
+}
+
 /* Texto em listas */
 ul, ol {
     margin: 10px 0;
@@ -47,10 +54,40 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Estilo para imagens */
+/* Imagens dentro do texto */
 img {
-    max-width: 100%; /* Limita a largura da imagem ao tamanho da página */
-    height: auto;   /* Mantém a proporção original da imagem */
-    display: block; /* Remove o espaço extra ao redor das imagens */
-    margin: 10px auto; /* Centraliza a imagem e adiciona margem */
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px 0;
+}
+
+/* Tabelas dentro do texto */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+table, th, td {
+    border: 1px solid #ccc;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+/* Estilo de fontes em itálico */
+em {
+    font-style: italic;
+}
+
+/* Ajuste para espaçamento de linha (1,5) */
+p, h1, h2, h3, ul, ol {
+    line-height: 1.5;
 }
