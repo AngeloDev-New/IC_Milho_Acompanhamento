@@ -1,0 +1,1950 @@
+{
+    "Abelardo_luz_002_025.jpg186360": {
+        "filename": "Abelardo_luz_002_025.jpg",
+        "size": 186360,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        263,
+                        294,
+                        308,
+                        302,
+                        313,
+                        287,
+                        287,
+                        276,
+                        252,
+                        272,
+                        271,
+                        251,
+                        229,
+                        264
+                    ],
+                    "all_points_y": [
+                        74,
+                        88,
+                        117,
+                        76,
+                        77,
+                        52,
+                        34,
+                        26,
+                        39,
+                        42,
+                        58,
+                        48,
+                        48,
+                        74
+                    ]
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        167,
+                        203,
+                        228,
+                        232,
+                        249,
+                        242,
+                        236,
+                        221,
+                        195,
+                        176,
+                        189,
+                        175,
+                        187,
+                        168
+                    ],
+                    "all_points_y": [
+                        84,
+                        67,
+                        81,
+                        74,
+                        95,
+                        75,
+                        67,
+                        59,
+                        56,
+                        47,
+                        61,
+                        69,
+                        70,
+                        85
+                    ]
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        119,
+                        140,
+                        155,
+                        150,
+                        161,
+                        148,
+                        133,
+                        123,
+                        93,
+                        119,
+                        108,
+                        122
+                    ],
+                    "all_points_y": [
+                        88,
+                        66,
+                        65,
+                        52,
+                        39,
+                        42,
+                        52,
+                        62,
+                        51,
+                        68,
+                        91,
+                        88
+                    ]
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        30,
+                        53,
+                        67,
+                        49,
+                        48,
+                        43,
+                        21,
+                        41,
+                        39,
+                        28
+                    ],
+                    "all_points_y": [
+                        75,
+                        48,
+                        50,
+                        41,
+                        1,
+                        23,
+                        15,
+                        32,
+                        48,
+                        74
+                    ]
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        255,
+                        268,
+                        274,
+                        252,
+                        258,
+                        244,
+                        229,
+                        217,
+                        215,
+                        229,
+                        209,
+                        204,
+                        195,
+                        219,
+                        218,
+                        234,
+                        241,
+                        232,
+                        247,
+                        250,
+                        254
+                    ],
+                    "all_points_y": [
+                        161,
+                        180,
+                        172,
+                        145,
+                        133,
+                        140,
+                        130,
+                        124,
+                        132,
+                        139,
+                        150,
+                        161,
+                        173,
+                        163,
+                        174,
+                        154,
+                        157,
+                        177,
+                        160,
+                        191,
+                        161
+                    ]
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        184,
+                        202,
+                        195,
+                        186,
+                        148,
+                        189,
+                        185
+                    ],
+                    "all_points_y": [
+                        175,
+                        150,
+                        138,
+                        133,
+                        136,
+                        146,
+                        171
+                    ]
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        127,
+                        147,
+                        117,
+                        99,
+                        86,
+                        109,
+                        132
+                    ],
+                    "all_points_y": [
+                        147,
+                        141,
+                        129,
+                        127,
+                        132,
+                        142,
+                        147
+                    ]
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        64,
+                        86,
+                        65,
+                        37,
+                        46,
+                        18,
+                        52,
+                        69,
+                        63
+                    ],
+                    "all_points_y": [
+                        148,
+                        143,
+                        124,
+                        117,
+                        128,
+                        130,
+                        135,
+                        136,
+                        146
+                    ]
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        335,
+                        378,
+                        379,
+                        396,
+                        415,
+                        424,
+                        411,
+                        435,
+                        424,
+                        397,
+                        391,
+                        375,
+                        387,
+                        390,
+                        365,
+                        384,
+                        334
+                    ],
+                    "all_points_y": [
+                        164,
+                        158,
+                        146,
+                        164,
+                        164,
+                        151,
+                        172,
+                        181,
+                        187,
+                        174,
+                        195,
+                        201,
+                        184,
+                        178,
+                        188,
+                        171,
+                        166
+                    ]
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        468,
+                        502,
+                        500,
+                        510,
+                        510,
+                        496,
+                        468
+                    ],
+                    "all_points_y": [
+                        171,
+                        183,
+                        209,
+                        205,
+                        178,
+                        164,
+                        170
+                    ]
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        34,
+                        2,
+                        3,
+                        27,
+                        24,
+                        39,
+                        52,
+                        52,
+                        33
+                    ],
+                    "all_points_y": [
+                        273,
+                        268,
+                        272,
+                        290,
+                        312,
+                        295,
+                        310,
+                        296,
+                        273
+                    ]
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        146,
+                        186,
+                        204,
+                        212,
+                        232,
+                        228,
+                        193,
+                        181,
+                        163,
+                        146
+                    ],
+                    "all_points_y": [
+                        337,
+                        310,
+                        301,
+                        302,
+                        285,
+                        300,
+                        330,
+                        326,
+                        345,
+                        338
+                    ]
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        255,
+                        284,
+                        290,
+                        294,
+                        298,
+                        312,
+                        320,
+                        322,
+                        330,
+                        332,
+                        321,
+                        310,
+                        301,
+                        291,
+                        286,
+                        290,
+                        289,
+                        264,
+                        257,
+                        254
+                    ],
+                    "all_points_y": [
+                        369,
+                        318,
+                        298,
+                        294,
+                        314,
+                        322,
+                        314,
+                        314,
+                        315,
+                        325,
+                        333,
+                        357,
+                        369,
+                        359,
+                        362,
+                        353,
+                        339,
+                        373,
+                        375,
+                        370
+                    ]
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        342,
+                        357,
+                        351,
+                        364,
+                        380,
+                        397,
+                        407,
+                        411,
+                        399,
+                        396,
+                        384,
+                        370,
+                        355,
+                        340,
+                        339
+                    ],
+                    "all_points_y": [
+                        343,
+                        340,
+                        349,
+                        345,
+                        353,
+                        373,
+                        376,
+                        375,
+                        362,
+                        352,
+                        336,
+                        337,
+                        333,
+                        333,
+                        341
+                    ]
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        220,
+                        246,
+                        253,
+                        256,
+                        259,
+                        263,
+                        257,
+                        267,
+                        254,
+                        253,
+                        250,
+                        241,
+                        222,
+                        214,
+                        236,
+                        239,
+                        235,
+                        231,
+                        228,
+                        237,
+                        225,
+                        222
+                    ],
+                    "all_points_y": [
+                        476,
+                        444,
+                        446,
+                        453,
+                        457,
+                        453,
+                        435,
+                        428,
+                        415,
+                        409,
+                        393,
+                        384,
+                        379,
+                        379,
+                        393,
+                        406,
+                        417,
+                        433,
+                        445,
+                        445,
+                        452,
+                        473
+                    ]
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        189,
+                        168,
+                        156,
+                        140,
+                        127,
+                        127,
+                        161,
+                        187
+                    ],
+                    "all_points_y": [
+                        430,
+                        409,
+                        406,
+                        399,
+                        403,
+                        410,
+                        422,
+                        430
+                    ]
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        71,
+                        105,
+                        114,
+                        122,
+                        116,
+                        95,
+                        71
+                    ],
+                    "all_points_y": [
+                        438,
+                        408,
+                        406,
+                        409,
+                        395,
+                        398,
+                        434
+                    ]
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        47,
+                        45,
+                        38,
+                        25,
+                        3,
+                        7,
+                        2,
+                        5,
+                        14,
+                        18,
+                        33,
+                        44
+                    ],
+                    "all_points_y": [
+                        438,
+                        399,
+                        388,
+                        374,
+                        375,
+                        387,
+                        397,
+                        411,
+                        392,
+                        418,
+                        400,
+                        438
+                    ]
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        290,
+                        314,
+                        316,
+                        326,
+                        338,
+                        345,
+                        331,
+                        346,
+                        324,
+                        315,
+                        308,
+                        304,
+                        297,
+                        308,
+                        292
+                    ],
+                    "all_points_y": [
+                        464,
+                        431,
+                        425,
+                        421,
+                        433,
+                        431,
+                        443,
+                        443,
+                        457,
+                        453,
+                        476,
+                        481,
+                        479,
+                        457,
+                        464
+                    ]
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        408,
+                        393,
+                        381,
+                        375,
+                        371,
+                        356,
+                        349,
+                        351,
+                        363,
+                        374,
+                        384,
+                        389,
+                        394,
+                        407
+                    ],
+                    "all_points_y": [
+                        467,
+                        453,
+                        449,
+                        441,
+                        439,
+                        426,
+                        435,
+                        443,
+                        447,
+                        458,
+                        457,
+                        478,
+                        468,
+                        466
+                    ]
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        454,
+                        432,
+                        425,
+                        416,
+                        423,
+                        434,
+                        431,
+                        452
+                    ],
+                    "all_points_y": [
+                        453,
+                        428,
+                        427,
+                        424,
+                        435,
+                        448,
+                        471,
+                        451
+                    ]
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        55,
+                        45,
+                        38,
+                        38,
+                        28,
+                        27,
+                        38,
+                        54,
+                        54,
+                        57
+                    ],
+                    "all_points_y": [
+                        483,
+                        460,
+                        454,
+                        486,
+                        502,
+                        509,
+                        509,
+                        509,
+                        485,
+                        480
+                    ]
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        451,
+                        486,
+                        496,
+                        510,
+                        494,
+                        475,
+                        448
+                    ],
+                    "all_points_y": [
+                        365,
+                        353,
+                        345,
+                        366,
+                        379,
+                        365,
+                        365
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Mangueirinha1_01_63.jpg124720": {
+        "filename": "Mangueirinha1_01_63.jpg",
+        "size": 124720,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        150,
+                        121,
+                        135,
+                        130,
+                        142,
+                        144,
+                        150,
+                        157,
+                        148,
+                        153
+                    ],
+                    "all_points_y": [
+                        231,
+                        217,
+                        230,
+                        246,
+                        243,
+                        258,
+                        259,
+                        246,
+                        236,
+                        217
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        78,
+                        100,
+                        106,
+                        110,
+                        101,
+                        77,
+                        96,
+                        83,
+                        75,
+                        79
+                    ],
+                    "all_points_y": [
+                        448,
+                        449,
+                        454,
+                        442,
+                        430,
+                        422,
+                        438,
+                        435,
+                        443,
+                        449
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        374,
+                        382,
+                        384,
+                        377,
+                        368,
+                        380,
+                        371
+                    ],
+                    "all_points_y": [
+                        466,
+                        449,
+                        429,
+                        439,
+                        435,
+                        447,
+                        468
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        445,
+                        449,
+                        435,
+                        419,
+                        425,
+                        428,
+                        445
+                    ],
+                    "all_points_y": [
+                        470,
+                        442,
+                        434,
+                        431,
+                        446,
+                        452,
+                        465
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        267,
+                        271,
+                        278,
+                        275,
+                        281,
+                        271,
+                        264,
+                        264,
+                        248,
+                        265,
+                        266
+                    ],
+                    "all_points_y": [
+                        471,
+                        449,
+                        460,
+                        433,
+                        424,
+                        435,
+                        420,
+                        433,
+                        421,
+                        447,
+                        471
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        80,
+                        88,
+                        76,
+                        69,
+                        60,
+                        54,
+                        48,
+                        36,
+                        50,
+                        36,
+                        41,
+                        51,
+                        69,
+                        74,
+                        84
+                    ],
+                    "all_points_y": [
+                        347,
+                        349,
+                        339,
+                        336,
+                        329,
+                        331,
+                        318,
+                        331,
+                        331,
+                        333,
+                        351,
+                        343,
+                        345,
+                        363,
+                        346
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        17,
+                        16,
+                        30,
+                        30,
+                        25,
+                        31,
+                        15,
+                        0,
+                        5,
+                        15
+                    ],
+                    "all_points_y": [
+                        333,
+                        321,
+                        333,
+                        338,
+                        342,
+                        361,
+                        347,
+                        343,
+                        325,
+                        330
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        309,
+                        325,
+                        323,
+                        318,
+                        313,
+                        296,
+                        305,
+                        312
+                    ],
+                    "all_points_y": [
+                        457,
+                        453,
+                        430,
+                        443,
+                        433,
+                        443,
+                        448,
+                        456
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        396,
+                        407,
+                        408,
+                        419,
+                        445,
+                        413,
+                        400,
+                        391,
+                        401,
+                        396
+                    ],
+                    "all_points_y": [
+                        247,
+                        275,
+                        257,
+                        241,
+                        239,
+                        235,
+                        221,
+                        221,
+                        245,
+                        252
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        370,
+                        370,
+                        352,
+                        345,
+                        342,
+                        327,
+                        355,
+                        359
+                    ],
+                    "all_points_y": [
+                        244,
+                        233,
+                        241,
+                        221,
+                        250,
+                        260,
+                        250,
+                        258
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        114,
+                        132,
+                        148,
+                        142,
+                        132,
+                        128,
+                        126,
+                        117,
+                        107,
+                        116
+                    ],
+                    "all_points_y": [
+                        353,
+                        347,
+                        345,
+                        336,
+                        333,
+                        327,
+                        339,
+                        328,
+                        351,
+                        354
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": "",
+                    "estadio0": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "Pinhao_01_56.jpg104792": {
+        "filename": "Pinhao_01_56.jpg",
+        "size": 104792,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        66,
+                        66,
+                        79,
+                        90,
+                        95,
+                        88,
+                        98,
+                        106,
+                        92,
+                        85,
+                        76,
+                        76,
+                        62,
+                        67
+                    ],
+                    "all_points_y": [
+                        243,
+                        227,
+                        222,
+                        238,
+                        236,
+                        220,
+                        222,
+                        222,
+                        207,
+                        206,
+                        195,
+                        210,
+                        224,
+                        240
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": "",
+                    "estadio0": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        138,
+                        132,
+                        128,
+                        125,
+                        130,
+                        134,
+                        153,
+                        173,
+                        171,
+                        157,
+                        138
+                    ],
+                    "all_points_y": [
+                        210,
+                        230,
+                        228,
+                        211,
+                        202,
+                        192,
+                        194,
+                        214,
+                        222,
+                        211,
+                        213
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": "",
+                    "estadio0": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        286,
+                        284,
+                        293,
+                        299,
+                        311,
+                        301,
+                        313,
+                        298,
+                        289,
+                        282,
+                        275,
+                        277,
+                        285
+                    ],
+                    "all_points_y": [
+                        222,
+                        201,
+                        201,
+                        199,
+                        204,
+                        182,
+                        177,
+                        173,
+                        172,
+                        184,
+                        184,
+                        210,
+                        225
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": "",
+                    "estadio0": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        361,
+                        364,
+                        366,
+                        365,
+                        375,
+                        352,
+                        355,
+                        357,
+                        353,
+                        354,
+                        361
+                    ],
+                    "all_points_y": [
+                        214,
+                        175,
+                        165,
+                        157,
+                        157,
+                        154,
+                        166,
+                        182,
+                        193,
+                        208,
+                        216
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": "",
+                    "estadio0": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        506,
+                        483,
+                        484,
+                        488,
+                        497,
+                        501,
+                        511,
+                        498,
+                        496,
+                        504
+                    ],
+                    "all_points_y": [
+                        177,
+                        171,
+                        153,
+                        141,
+                        143,
+                        154,
+                        156,
+                        165,
+                        167,
+                        176
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": "",
+                    "estadio0": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        478,
+                        474,
+                        464,
+                        456,
+                        452,
+                        452,
+                        444,
+                        460,
+                        463,
+                        484,
+                        476
+                    ],
+                    "all_points_y": [
+                        263,
+                        283,
+                        272,
+                        272,
+                        272,
+                        266,
+                        256,
+                        254,
+                        250,
+                        260,
+                        269
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": "",
+                    "estadio0": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        400,
+                        406,
+                        405,
+                        392,
+                        383,
+                        387,
+                        376,
+                        373,
+                        374,
+                        374,
+                        389,
+                        400
+                    ],
+                    "all_points_y": [
+                        299,
+                        265,
+                        258,
+                        266,
+                        249,
+                        270,
+                        283,
+                        290,
+                        301,
+                        302,
+                        281,
+                        298
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": "",
+                    "estadio0": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        261,
+                        263,
+                        262,
+                        275,
+                        270,
+                        258,
+                        252,
+                        243,
+                        239,
+                        249,
+                        254,
+                        260
+                    ],
+                    "all_points_y": [
+                        321,
+                        289,
+                        276,
+                        281,
+                        273,
+                        273,
+                        278,
+                        295,
+                        305,
+                        298,
+                        312,
+                        319
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": "",
+                    "estadio0": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        229,
+                        206,
+                        201,
+                        201,
+                        201,
+                        182,
+                        174,
+                        166,
+                        171,
+                        178,
+                        190,
+                        202,
+                        224
+                    ],
+                    "all_points_y": [
+                        330,
+                        305,
+                        307,
+                        299,
+                        288,
+                        289,
+                        292,
+                        304,
+                        317,
+                        304,
+                        315,
+                        320,
+                        329
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": "",
+                    "estadio0": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        155,
+                        143,
+                        138,
+                        132,
+                        129,
+                        124,
+                        119,
+                        121,
+                        106,
+                        100,
+                        107,
+                        111,
+                        116,
+                        113,
+                        119,
+                        126,
+                        137,
+                        148,
+                        151
+                    ],
+                    "all_points_y": [
+                        327,
+                        307,
+                        298,
+                        311,
+                        290,
+                        290,
+                        293,
+                        306,
+                        302,
+                        327,
+                        329,
+                        330,
+                        311,
+                        331,
+                        342,
+                        320,
+                        322,
+                        318,
+                        328
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": "",
+                    "estadio0": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        33,
+                        41,
+                        34,
+                        25,
+                        15,
+                        15,
+                        9,
+                        11,
+                        21,
+                        21,
+                        35
+                    ],
+                    "all_points_y": [
+                        443,
+                        422,
+                        409,
+                        404,
+                        409,
+                        420,
+                        433,
+                        449,
+                        446,
+                        435,
+                        446
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": "",
+                    "estadio0": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        112,
+                        98,
+                        101,
+                        89,
+                        89,
+                        73,
+                        70,
+                        76,
+                        84,
+                        89,
+                        92,
+                        100,
+                        101,
+                        101,
+                        97,
+                        100
+                    ],
+                    "all_points_y": [
+                        411,
+                        394,
+                        382,
+                        394,
+                        405,
+                        405,
+                        414,
+                        416,
+                        414,
+                        426,
+                        438,
+                        441,
+                        421,
+                        410,
+                        403,
+                        396
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": "",
+                    "estadio0": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        173,
+                        181,
+                        188,
+                        181,
+                        165,
+                        156,
+                        147,
+                        157,
+                        157,
+                        168,
+                        174
+                    ],
+                    "all_points_y": [
+                        433,
+                        405,
+                        394,
+                        386,
+                        386,
+                        391,
+                        400,
+                        406,
+                        420,
+                        413,
+                        429
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": "",
+                    "estadio0": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        251,
+                        262,
+                        259,
+                        252,
+                        231,
+                        242,
+                        232,
+                        244,
+                        246,
+                        254,
+                        255,
+                        252,
+                        254
+                    ],
+                    "all_points_y": [
+                        374,
+                        382,
+                        370,
+                        370,
+                        377,
+                        395,
+                        409,
+                        402,
+                        422,
+                        421,
+                        401,
+                        388,
+                        374
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": "",
+                    "estadio0": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        308,
+                        319,
+                        330,
+                        331,
+                        318,
+                        311,
+                        301,
+                        312,
+                        308
+                    ],
+                    "all_points_y": [
+                        375,
+                        359,
+                        372,
+                        402,
+                        414,
+                        395,
+                        396,
+                        388,
+                        369
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": "",
+                    "estadio0": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        374,
+                        382,
+                        379,
+                        395,
+                        401,
+                        412,
+                        430,
+                        416,
+                        424,
+                        397,
+                        386,
+                        386,
+                        382,
+                        375
+                    ],
+                    "all_points_y": [
+                        385,
+                        369,
+                        361,
+                        343,
+                        351,
+                        359,
+                        363,
+                        376,
+                        395,
+                        389,
+                        385,
+                        403,
+                        410,
+                        382
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": "",
+                    "estadio0": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        449,
+                        457,
+                        467,
+                        472,
+                        472,
+                        461,
+                        442,
+                        435,
+                        435,
+                        433,
+                        444,
+                        454
+                    ],
+                    "all_points_y": [
+                        355,
+                        371,
+                        375,
+                        366,
+                        350,
+                        345,
+                        350,
+                        358,
+                        363,
+                        375,
+                        356,
+                        356
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": "",
+                    "estadio0": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        462,
+                        452,
+                        445,
+                        443,
+                        454,
+                        454,
+                        464,
+                        481,
+                        468,
+                        477,
+                        465,
+                        457
+                    ],
+                    "all_points_y": [
+                        439,
+                        445,
+                        469,
+                        478,
+                        497,
+                        460,
+                        460,
+                        466,
+                        451,
+                        438,
+                        441,
+                        441
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": "",
+                    "estadio0": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        402,
+                        378,
+                        379,
+                        385,
+                        390,
+                        404,
+                        422,
+                        405,
+                        400
+                    ],
+                    "all_points_y": [
+                        451,
+                        459,
+                        490,
+                        498,
+                        475,
+                        477,
+                        470,
+                        451,
+                        452
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": "",
+                    "estadio0": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        266,
+                        250,
+                        242,
+                        236,
+                        225,
+                        220,
+                        236,
+                        257,
+                        257,
+                        269
+                    ],
+                    "all_points_y": [
+                        487,
+                        478,
+                        481,
+                        486,
+                        494,
+                        509,
+                        499,
+                        498,
+                        492,
+                        486
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": "",
+                    "estadio0": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        178,
+                        158,
+                        166,
+                        171,
+                        181,
+                        196,
+                        182,
+                        173
+                    ],
+                    "all_points_y": [
+                        481,
+                        498,
+                        503,
+                        507,
+                        507,
+                        500,
+                        485,
+                        484
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": "",
+                    "estadio0": ""
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        101,
+                        113,
+                        103,
+                        90,
+                        91,
+                        98
+                    ],
+                    "all_points_y": [
+                        503,
+                        495,
+                        489,
+                        497,
+                        503,
+                        506
+                    ]
+                },
+                "region_attributes": {
+                    "estadio1": "",
+                    "estadio0": ""
+                }
+            }
+        ],
+        "file_attributes": {}
+    }
+}
