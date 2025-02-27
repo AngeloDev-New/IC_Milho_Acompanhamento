@@ -1,0 +1,4 @@
+*.tif
+*.ps1
+venv/
+tifs/venv310
