@@ -1,5 +1,5 @@
 *.tif
 *.ps1
-# *.jpg
-# *.jpeg
+*.jpg
+*.jpeg
 venv/
