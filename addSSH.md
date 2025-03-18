@@ -1,61 +1,59 @@
-# Como Criar uma Chave SSH
+# Como Criar uma Chave SSH no Windows
 
-## 1. Verificar Chaves Existentes
-Antes de criar uma nova chave SSH, verifique se já possui uma:
-```sh
-ls -al ~/.ssh
+## 1. Verificar se o OpenSSH está Instalado
+No Windows 10 e 11, o OpenSSH já vem instalado. Para verificar:
+```powershell
+Get-WindowsCapability -Online | Where-Object Name -like 'OpenSSH*'
 ```
-Se houver arquivos como `id_rsa` e `id_rsa.pub`, você já tem uma chave.
+Se não estiver instalado, adicione via:
+```powershell
+Add-WindowsCapability -Online -Name OpenSSH.Client~~~~0.0.1.0
+```
 
 ## 2. Gerar uma Nova Chave SSH
-Para criar uma nova chave, execute:
-```sh
+Abra o **PowerShell** ou o **Prompt de Comando** e execute:
+```powershell
 ssh-keygen -t rsa -b 4096 -C "seu-email@example.com"
 ```
 - `-t rsa`: Define o tipo de chave como RSA.
 - `-b 4096`: Especifica o tamanho da chave.
 - `-C "seu-email@example.com"`: Adiciona um comentário para identificação.
 
-Aperte **Enter** para aceitar o caminho padrão (`~/.ssh/id_rsa`) ou especifique um diferente.
+Pressione **Enter** para aceitar o caminho padrão (`C:\Users\SeuUsuario\.ssh\id_rsa`) ou especifique um diferente.
 
 ## 3. Definir uma Senha Opcional
 Você pode definir uma senha para maior segurança ou apenas pressionar **Enter** para continuar sem senha.
 
 ## 4. Adicionar a Chave ao ssh-agent
-Para facilitar a autenticação, adicione a chave ao ssh-agent:
-```sh
-eval "$(ssh-agent -s)"
-ssh-add ~/.ssh/id_rsa
+Inicie o serviço SSH-Agent e adicione a chave:
+```powershell
+Start-Service ssh-agent
+ssh-add $env:USERPROFILE\.ssh\id_rsa
 ```
 
 ## 5. Copiar a Chave Pública para o Servidor
-Para adicionar a chave pública a um servidor remoto:
-```sh
-ssh-copy-id usuario@servidor
+Para adicionar a chave pública a um servidor remoto manualmente, exiba seu conteúdo:
+```powershell
+Get-Content $env:USERPROFILE\.ssh\id_rsa.pub
 ```
-Caso o comando acima não esteja disponível, copie manualmente:
-```sh
-cat ~/.ssh/id_rsa.pub
-```
-E cole o conteúdo no arquivo `~/.ssh/authorized_keys` do servidor remoto.
+Depois, copie e cole o conteúdo no arquivo `~/.ssh/authorized_keys` do servidor remoto.
 
 ## 6. Testar a Conexão SSH
 Verifique se a autenticação funciona sem senha:
-```sh
+```powershell
 ssh usuario@servidor
 ```
 Se tudo estiver correto, você estará conectado sem precisar digitar a senha!
 
-## 7. Configuração Opcional: Arquivo `~/.ssh/config`
-Para facilitar a conexão, adicione um alias ao arquivo `~/.ssh/config`:
-```sh
-echo "
+## 7. Configuração Opcional: Arquivo `config`
+Para facilitar a conexão, crie ou edite o arquivo `config` em `C:\Users\SeuUsuario\.ssh\config` e adicione:
+```plaintext
 Host meu-servidor
     HostName servidor
     User usuario
-    IdentityFile ~/.ssh/id_rsa
-" >> ~/.ssh/config
+    IdentityFile C:\Users\SeuUsuario\.ssh\id_rsa
 ```
 Agora, basta rodar:
-```sh
+```powershell
 ssh meu-servidor
+```
