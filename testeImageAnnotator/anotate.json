@@ -1,0 +1,27 @@
+{
+    "swan.jpg":{
+        "filename":"swan.jpg",
+        "size":-1,
+        "regions":[
+            {
+                "shape_attributes":{
+                    "name":"polygon",
+                    "all_points_x":[116,94,176,343,383,385,369,406,398,364,310,297,304,244,158],
+                    "all_points_y":[157,195,264,273,261,234,222,216,155,124,135,170,188,170,175]
+                    },
+                "region_attributes":{
+                    "name":"Swan",
+                    "type":"bird",
+                    "image_quality":{
+                        "good_illumination":true
+                        }
+                    }
+            }
+        ],
+        "file_attributes":{
+            "caption":"Swan in lake Geneve",
+            "public_domain":"no",
+            "image_url":"http://www.robots.ox.ac.uk/~vgg/software/via/images/swan.jpg"
+        }
+    }
+}
